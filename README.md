@@ -1,7 +1,7 @@
 ![logo text](https://github.com/westahdusiwii/rocket/assets/156493898/53d3497b-dbb6-4a6a-aaa3-0784dc8e8b69)
 Vanilla+ experience, RPG-like gameplay, dark-themed GUI and more.
 
-[<img src="https://github.com/westahdusiwii/rocket/assets/156493898/939b57a7-f4e7-4e39-9b2b-abf125171430">](https://modrinth.com/modpack/rocket) [<img src="https://github.com/westahdusiwii/rocket/assets/156493898/9246b569-ab88-4070-aba8-f6d0274b39ba">](https://discord.gg/KScRA9Wr9x) [<img src="https://github.com/westahdusiwii/rocket/assets/156493898/9246b569-ab88-4070-aba8-f6d0274b39ba">](https://discord.gg/KScRA9Wr9x)
+[<img src="https://github.com/westahdusiwii/rocket/assets/156493898/939b57a7-f4e7-4e39-9b2b-abf125171430">](https://modrinth.com/modpack/rocket) [<img src="https://github.com/westahdusiwii/rocket/assets/156493898/9246b569-ab88-4070-aba8-f6d0274b39ba">](https://discord.gg/KScRA9Wr9x) [<img src="https://github.com/westahdusiwii/rocket/assets/156493898/f4b65ffd-fbe0-469d-9a64-9b7f742d0234">](https://github.com/westahdusiwii/rocket/issues)
 
 ![GITHUB](https://github.com/westahdusiwii/rocket/assets/156493898/f4b65ffd-fbe0-469d-9a64-9b7f742d0234)
 
